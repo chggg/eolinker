@@ -1,0 +1,25 @@
+#!/bin/sh
+
+# ------------------------------------------------------------------------------
+# title:		update web file through git from coding.net
+# author:   	zjh
+# email:   		temp2016good@163.com
+# date: 		2018-11-07
+# version:  	1.0
+# -------------------------------------------------------------------------------
+
+
+#服务器用户账户
+uname="webadmin"
+#登录秘钥                       
+keyfile="$HOME/.ssh/id_rsa"
+#代服务器ip              
+ip=58.67.206.4
+#服务器端口        
+port=60022  
+#网站所在的实际路径
+path=/opt/web/apiManage
+
+ssh -i $keyfile -p$port $uname@$ip "cd $path; git pull --rebase;"
+
+

@@ -1,0 +1,5 @@
+2019/Jan/11 01:01:09=>[code:12000;info:database error in:["42S02",1146,"Table 'eolinker.eo_api_group' doesn't exist"];wrongFile:C:\Users\aaaa\Desktop\newproject\eolinker\ourapi\server\RTP\Module\DatabaseModule.class.php;wrongLine:264];
+2019/Jan/11 01:01:17=>[code:12000;info:database error in:["42S02",1146,"Table 'eolinker.eo_api_group' doesn't exist"];wrongFile:C:\Users\aaaa\Desktop\newproject\eolinker\ourapi\server\RTP\Module\DatabaseModule.class.php;wrongLine:264];
+2019/Jan/11 01:01:17=>[code:12000;info:database error in:["42S02",1146,"Table 'eolinker.eo_api_group' doesn't exist"];wrongFile:C:\Users\aaaa\Desktop\newproject\eolinker\ourapi\server\RTP\Module\DatabaseModule.class.php;wrongLine:264];
+2019/Jan/11 01:01:18=>[code:12000;info:database error in:["42S02",1146,"Table 'eolinker.eo_api_group' doesn't exist"];wrongFile:C:\Users\aaaa\Desktop\newproject\eolinker\ourapi\server\RTP\Module\DatabaseModule.class.php;wrongLine:264];
+2019/Jan/11 01:01:18=>[code:12000;info:database error in:["42S02",1146,"Table 'eolinker.eo_api_env' doesn't exist"];wrongFile:C:\Users\aaaa\Desktop\newproject\eolinker\ourapi\server\RTP\Module\DatabaseModule.class.php;wrongLine:264];
